@@ -17,3 +17,8 @@ Heute arbeitet sie im BKA und ist aktuell im Einsatz in Berlin.
 * Nachtsichtgeraet
 * Lederhandschuhe
 
+Zitat:
+> Hier bin ich.
+> Heile mich.
+> Nimm meinen Körper.
+> Meine Seele bekommst du nicht.
