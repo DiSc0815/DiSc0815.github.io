@@ -1,12 +1,14 @@
 # Jenny Aaron
 
-Jenny war bis vor fünf Jahren Mitglied einer Eliteeinheit der Polizei. 
+Jenny war bis vor fÃ¼nf Jahren Mitglied einer Eliteeinheit der Polizei. 
 Ihr letzter Einsatz dort kostete sie fast das Leben. Durch ein Schuss-
 verletzung und einhergendem Autounfall verlor sie ihr Augenlicht und ist
-seitdem blind. Durch fortwärendes Trainig gelang es ihr ihren Lebensmut
-zurück zu gewinnen. Auch ohne Blindenstock gelingt es ihr sich in ihrer
+seitdem blind. Durch fortwÃ¤rendes Trainig gelang es ihr ihren Lebensmut
+zurÃ¼ck zu gewinnen. Auch ohne Blindenstock gelingt es ihr sich in ihrer
 Umgebung zu orientieren. 
+
 Heute arbeitet sie im BKA und ist aktuell im Einsatz in Berlin.
+
 
 
 
@@ -15,3 +17,4 @@ Heute arbeitet sie im BKA und ist aktuell im Einsatz in Berlin.
 * Schutzweste
 * Nachtsichtgeraet
 * Lederhandschuhe
+
