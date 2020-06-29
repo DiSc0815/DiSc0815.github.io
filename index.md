@@ -6,4 +6,4 @@ verletzung und einhergendem Autounfall verlor sie ihr Augenlicht und ist
 seitdem blind. Durch fortwärendes Trainig gelang es ihr ihren Lebensmut
 zurück zu gewinnen. Auch ohne Blindenstock gelingt es ihr sich in ihrer
 Umgebung zu orientieren. 
-Heute arbeitet sie im BKA.
+Heute arbeitet sie im BKA. End.
